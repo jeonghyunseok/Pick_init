@@ -1,7 +1,7 @@
 # Pick
 
 This template should help get you started developing with Vue 3 in Vite.
-Jeong's commit add
+Jeong's commit add2
 
 ## Recommended IDE Setup
 
